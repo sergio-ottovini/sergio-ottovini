@@ -6,7 +6,7 @@
 Philosopher & Snack Hunter 🥟🍲: Finding logic in chaos, and balance in a full kitchen (Kitchen Boss) or with my feline family and 😼 (Captive Cat Dad).
 Open to connecting on tech trends that matter!
 
-### My Latest Article in Ailogio blog
+### My Latest Article in GH Ailogio blog
 <div align="center">
   
   <a href="https://ailogio.github.io/en/blog/forget-about-forgetting-work/">
