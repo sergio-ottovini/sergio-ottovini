@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Sergio
 
-<!--
-**sergio-ottovini/sergio-ottovini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**At work:** Dedicated to elevating hospitality through digital intelligence. 
 
-Here are some ideas to get you started:
+**Beyond the Terminal:** Idea Launcher 🚀: Passionate about turning abstract concepts into scalable realities.
+Philosopher & Snack Hunter 🥟🍲: Finding logic in chaos, and balance in a full kitchen (Kitchen Boss) or with my feline family and 😼 (Captive Cat Dad).
+Open to connecting on tech trends that matter!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Latest Article in Ailogio blog
+<div align="center">
+  
+  <a href="https://ailogio.github.io/en/blog/forget-about-forgetting-work/">
+  <img src="media/imgs/learning-the-decomposition-estimation-strategy.png" alt="Live App" width="96%">
+</a>
+</div>
+
