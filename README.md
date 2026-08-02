@@ -2,7 +2,7 @@
 
 My stack
 
-Clouds:  Azure / GCP | Kubernetes | AI / ML Integration | GoLang | Python |
+Clouds:  Azure / GCP | Kubernetes | AI / ML Integration | GoLang | Python 
 
 **At work:** Dedicated to elevating hospitality through digital intelligence. 
 
