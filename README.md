@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Sergio
 
+My stack
+
+Clouds:  Azure / GCP | Kubernetes AI / ML Integration | GoLang | Python |
+
 **At work:** Dedicated to elevating hospitality through digital intelligence. 
 
 **Beyond the Terminal:** Idea Launcher 🚀: Passionate about turning abstract concepts into scalable realities.
