@@ -1,8 +1,6 @@
-## Hi there 👋 I'm Sergio
+## Hi there 👋 I'm Gio
 
-My stack: 
-
-Google Cloud Platform • Kubernetes • AI • ML • Integrations • GoLang • Python • ADK
+My stack: Google Cloud Platform • Kubernetes • AI • ML • Integrations • GoLang • Python • ADK
 
 **At work:** Dedicated to elevating hospitality through digital intelligence. 
 
