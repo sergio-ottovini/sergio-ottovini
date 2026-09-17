@@ -3,7 +3,7 @@
 # AI-Ops, Data-Ops, Data-Analytics, development.
 
 ## Data-Analytics:
-**Big Data Processing:** Pandas, SQL (оптимизация сложных запросов), ETL.
+**Big Data Processing:** Pandas, SQL (optimization of complex queries), ETL.
 - **Databases:** MySQL, Redis (hot store).
 - Broker: Kafka (event-driven system).
 - Interfaces & protocols: REST API, JSON, ext.
