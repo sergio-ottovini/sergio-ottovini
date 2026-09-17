@@ -1,8 +1,6 @@
 
-# AI-Ops, Data-Ops, Data-Analytics Experience:
-
-
-
+# Experience:
+# AI-Ops, Data-Ops, Data-Analytics, development.
 
 ## Data-Analytics:
 **Big Data Processing:** Pandas, SQL (оптимизация сложных запросов), ETL.
