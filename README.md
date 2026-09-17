@@ -2,7 +2,7 @@
 
 My stack: Google Cloud Platform • Kubernetes • AI • ML • Integrations • GoLang • Python • ADK
 
-More details [about my experience](https://github.com/sergio-ottovini/sergio-ottovini/blob/main/experience.md) 
+More details [about my experience](https://github.com/sergio-ottovini/sergio-ottovini/blob/main/cv/experience.md) 
 
 **At work:** Dedicated to elevating customer satisfaction through digital intelligence. 
 
