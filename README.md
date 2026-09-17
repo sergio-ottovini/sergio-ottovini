@@ -2,7 +2,9 @@
 
 My stack: Google Cloud Platform • Kubernetes • AI • ML • Integrations • GoLang • Python • ADK
 
-**At work:** Dedicated to elevating hospitality through digital intelligence. 
+More details [about my experience](https://github.com/sergio-ottovini/sergio-ottovini/blob/main/experience.md) 
+
+**At work:** Dedicated to elevating customer satisfaction through digital intelligence. 
 
 **Beyond the Terminal:** Idea Launcher 🚀: Passionate about turning abstract concepts into scalable realities.
 Philosopher & Snack Hunter 🥟🍲: Finding logic in chaos, and balance in a full kitchen (Kitchen Boss) or with my feline family and 😼 (Captive Cat Dad).
